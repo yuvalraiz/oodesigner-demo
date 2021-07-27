@@ -15,7 +15,7 @@ extensions:
   graph:
     steps:
       do_nothing:
-        x: 254
+        x: 391
         'y': 101.484375
         navigate:
           14ade247-c34f-a6bc-f7ee-d8f9939e8f58:
@@ -24,5 +24,5 @@ extensions:
     results:
       SUCCESS:
         3a05ad07-dbf2-032d-c788-35ec264ee265:
-          x: 391
+          x: 250
           'y': 98
